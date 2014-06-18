@@ -1,15 +1,11 @@
-CourseProject
-=============
+###CourseProject  run_analysis.R
+
 
 CourseProject assignment in Getting and Cleaning Data class
-==================================================================
-run_analysis.R
-==================================================================
 Michinori Masuda
-==================================================================
 
-Overall description
-====================
+
+###Overall description
 
 This R program creates a tidy data set from Human Activity Recognition Using Smartphones Dataset as following according to Course project assignment in Getting and Cleaning Data class.
 
@@ -35,10 +31,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. 
 The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. 
 From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
-==================================================================
 
-Detailed description
-====================
+
+### Detailed description
+
 -preposition
 Accorging to the instruction, 
 this programm assumes the original data locates in working directory and keeps it's directory as below
