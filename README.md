@@ -1,4 +1,4 @@
-##CourseProject
+CourseProject
 =============
 
 CourseProject assignment in Getting and Cleaning Data class
@@ -8,7 +8,7 @@ run_analysis.R
 Michinori Masuda
 ==================================================================
 
-##Overall description
+Overall description
 ====================
 
 This R program creates a tidy data set from Human Activity Recognition Using Smartphones Dataset as following according to Course project assignment in Getting and Cleaning Data class.
@@ -37,7 +37,7 @@ The gravitational force is assumed to have only low frequency components, theref
 From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 ==================================================================
 
-##Detailed description
+Detailed description
 ====================
 -preposition
 Accorging to the instruction, 
