@@ -1,8 +1,14 @@
-###Code Book 
+##Code Book 
 
- This code book shows variable description of tidy data set derived from Human Activity Recognition Using Smartphones Dataset(see https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
+This code book shows summary and variable description of tidy data set derived from Human Activity Recognition Using Smartphones Dataset(see https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
+ 
+###summary  
+
+This tidy data set provides the average of mean and standard deviation on each measurement for each activity and each subject. In detailed, this data set shows the average of each 66 measurements for each 6 activites and each 30 subjects, that is 180 rows. The first two columns show subject and activity. The following 66 columns show the average of each 66 measurements.  
+
+###variable description  
+
 They are listed in alphabetic order.
-
 
 ####activity  
 	description	performed activities on experiment    
