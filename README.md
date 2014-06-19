@@ -35,10 +35,10 @@ From each window, a vector of features was obtained by calculating variables fro
 
 -preposition  
 Accorging to the instruction, 
-this programm assumes the original data locates in working directory and keeps it's directory as below
-./activity_lables.txt,features.txt 
-./train/subject_train.txt,X_train.txt,Y_train.txt
-./test/subject_test.txt,X_test.txt,Y_test.txt  
+this programm assumes the original data locates in working directory and keeps it's directory as below  
+./activity_lables.txt,features.txt   
+./train/subject_train.txt,X_train.txt,Y_train.txt  
+./test/subject_test.txt,X_test.txt,Y_test.txt    
 -argument  
 no arguments  
 -return  
