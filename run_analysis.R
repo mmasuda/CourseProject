@@ -10,7 +10,7 @@
 ##
 ## raw data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 ## 
-## preposition  : Accorging to the instruction, 
+## precondition : Accorging to the instruction, 
 ##              : this programm assumes the original data locates in working directory and keeps it's directory as below
 ##              :       ./activity_lables.txt,features.txt 
 ##              :       ./train/subject_train.txt,X_train.txt,Y_train.txt
