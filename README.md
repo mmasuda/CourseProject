@@ -33,7 +33,7 @@ From each window, a vector of features was obtained by calculating variables fro
 
 ### Detailed description
 
--preposition  
+-precondition  
 Accorging to the instruction, 
 this programm assumes the original data locates in working directory and keeps it's directory as below  
 ./activity_lables.txt,features.txt   
@@ -42,5 +42,5 @@ this programm assumes the original data locates in working directory and keeps i
 -argument  
 no arguments  
 -return  
-A tidy data as dataframe which provides the average of each variable for each activity and each subject.
+A tidy data as a dataframe which provides the average of each variable for each activity and each subject.
 These variables are extructed only the measurements on the mean and standard deviation for each measurement
